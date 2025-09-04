@@ -73,9 +73,9 @@ Open the Jupyter Notebook (python/hr_analysis.ipynb) and run the code to generat
 Open the Power BI file (powerbi/HR_Analytics_Dashboard.pbix) to explore the dashboard.
 Check the report/HR_Analytics_Report.pdf for a summary report.
 
-👤 Author
-Mohamed Emad Alhadi Abdalla
-GitHub: [omda123]
+👤 Author  :
+Mohamed Emad Alhadi Abdalla.
+,  GitHub: [omda123] 
 
 📌 Notes
 This project is for educational and portfolio purposes.
